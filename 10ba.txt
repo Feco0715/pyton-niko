@@ -1,0 +1,291 @@
+10.B Éretségi tanrárgyainak nyílvántartása
+
+Diákok éretségitantárgyának átlaga
+Osztály átlag
+legjobb eredmény
+legrosszabb eredmény
+leghosszabb név
+legrövödebb név
+Legjobb tanuló
+legrosszabb tanuló
+Legjobban sikerült tantárgy
+
+
+
+
+
+Keserű Tibor
+	Matematika	3
+	Magyar		3		1
+	Angol		4
+	Történelem	2
+	Informatika	4
+
+
+Keserű Tibor
+	Matematika	3
+	Magyar		3		1
+	Angol		4
+	Történelem	2
+	Informatika	4
+
+
+Keserű Tibor
+	Matematika	3
+	Magyar		3		1
+	Angol		4
+	Történelem	2
+	Informatika	4
+
+
+Keserű Tibor
+	Matematika	3
+	Magyar		3		1
+	Angol		4
+	Történelem	2
+	Informatika	4
+
+
+Keserű Tibor
+	Matematika	3
+	Magyar		3		1
+	Angol		4
+	Történelem	2
+	Informatika	4
+
+
+Keserű Tibor
+	Matematika	3
+	Magyar		3		1
+	Angol		4
+	Történelem	2
+	Informatika	4
+
+
+Keserű Tibor
+	Matematika	3
+	Magyar		3		1
+	Angol		4
+	Történelem	2
+	Informatika	4
+
+
+Keserű Tibor
+	Matematika	3
+	Magyar		3		1
+	Angol		4
+	Történelem	2
+	Informatika	4
+
+
+Keserű Tibor
+	Matematika	3
+	Magyar		3		1
+	Angol		4
+	Történelem	2
+	Informatika	4
+
+
+Keserű Tibor
+	Matematika	3
+	Magyar		3		1
+	Angol		4
+	Történelem	2
+	Informatika	4
+
+
+Keserű Tibor
+	Matematika	3
+	Magyar		3		1
+	Angol		4
+	Történelem	2
+	Informatika	4
+
+
+Keserű Tibor
+	Matematika	3
+	Magyar		3		1
+	Angol		4
+	Történelem	2
+	Informatika	4
+
+
+Keserű Tibor
+	Matematika	3
+	Magyar		3		1
+	Angol		4
+	Történelem	2
+	Informatika	4
+
+
+Keserű Tibor
+	Matematika	3
+	Magyar		3		1
+	Angol		4
+	Történelem	2
+	Informatika	4
+
+
+Keserű Tibor
+	Matematika	3
+	Magyar		3		1
+	Angol		4
+	Történelem	2
+	Informatika	4
+
+
+Keserű Tibor
+	Matematika	3
+	Magyar		3		1
+	Angol		4
+	Történelem	2
+	Informatika	4
+
+
+Keserű Tibor
+	Matematika	3
+	Magyar		3		1
+	Angol		4
+	Történelem	2
+	Informatika	4
+
+
+Keserű Tibor
+	Matematika	3
+	Magyar		3		1
+	Angol		4
+	Történelem	2
+	Informatika	4
+
+
+Keserű Tibor
+	Matematika	3
+	Magyar		3		1
+	Angol		4
+	Történelem	2
+	Informatika	4
+
+
+Keserű Tibor
+	Matematika	3
+	Magyar		3		1
+	Angol		4
+	Történelem	2
+	Informatika	4
+
+
+Keserű Tibor
+	Matematika	3
+	Magyar		3		1
+	Angol		4
+	Történelem	2
+	Informatika	4
+
+
+Keserű Tibor
+	Matematika	3
+	Magyar		3		1
+	Angol		4
+	Történelem	2
+	Informatika	4
+
+
+Keserű Tibor
+	Matematika	3
+	Magyar		3		1
+	Angol		4
+	Történelem	2
+	Informatika	4
+
+
+Keserű Tibor
+	Matematika	3
+	Magyar		3		1
+	Angol		4
+	Történelem	2
+	Informatika	4
+
+
+Keserű Tibor
+	Matematika	3
+	Magyar		3		1
+	Angol		4
+	Történelem	2
+	Informatika	4
+
+
+Keserű Tibor
+	Matematika	3
+	Magyar		3		1
+	Angol		4
+	Történelem	2
+	Informatika	4
+
+
+Keserű Tibor
+	Matematika	3
+	Magyar		3		1
+	Angol		4
+	Történelem	2
+	Informatika	4
+
+
+Keserű Tibor
+	Matematika	3
+	Magyar		3		1
+	Angol		4
+	Történelem	2
+	Informatika	4
+
+
+Keserű Tibor
+	Matematika	3
+	Magyar		3		1
+	Angol		4
+	Történelem	2
+	Informatika	4
+
+
+Keserű Tibor
+	Matematika	3
+	Magyar		3		1
+	Angol		4
+	Történelem	2
+	Informatika	4
+
+
+Keserű Tibor
+	Matematika	3
+	Magyar		3			
+	Angol		4		1
+	Történelem	2
+	Informatika	4
+
+
+Keserű Tibor
+	Matematika	3
+	Magyar		3		
+	Angol		4		1
+	Történelem	2
+	Informatika	4
+
+
+
+
+
+
+Osztály átlag:
+
+legjobb eredmény: 
+
+legrosszabb eredmény:
+
+leghosszabb név:
+
+legrövödebb név:
+
+Legjobb tanuló:
+
+legrosszabb tanuló:
+
+Legjobban sikerült tantárgy:
